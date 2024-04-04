@@ -1,0 +1,4 @@
+Built using node.js and React.js , Chat feature using chatengine.io 
+react-chat-engine-advanced  0R react-chat-engine-pretty => Chat UI npm module dependency
+
+DOCS Referred from : https://rest.chatengine.io/#0c96f8f3-5eac-40fa-9cc3-a09d36d6de14
